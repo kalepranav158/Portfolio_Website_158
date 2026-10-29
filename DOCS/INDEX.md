@@ -8,13 +8,13 @@ This directory serves as the persistent audit log and technical documentation fo
 
 | Sprint ID | Target Phases | Scope & Objectives | Status |
 | :--- | :--- | :--- | :--- |
-| **Sprint 0** | Phase 0 & Phase A0 | Reconnaissance, directory structure, gitignore, and foundational baseline setup | **In Progress** |
-| **Sprint 1** | Phase 1 & Phase 2 | Next.js frontend scaffolding, design tokens, typography, HUD primitives, Nav & Footer | Scheduled |
-| **Sprint 2** | Phase 3 | Cinematic Spartan Hero section (layered SVG artwork, telemetry, copy & CTAs) | Scheduled |
-| **Sprint 3** | Phase 4 | Mission dossiers (data-driven projects), case studies (`/projects/[slug]`), architecture diagrams | Scheduled |
-| **Sprint 4** | Phase 5 | Engineering Subsystems (About, Skill Matrix, Mission Log / Timeline) | Scheduled |
-| **Sprint 5** | Phase 6 | Communication Terminal (Contact form + `/api/contact`), Technical Journal stub | Scheduled |
-| **Sprint 6** | Phase A1–A7 | Spartan Intelligence FastAPI backend, knowledge corpus, ingestion, hybrid retrieval & RAG | Scheduled |
+| **Sprint 0** | Phase 0 & Phase A0 | Reconnaissance, directory structure, gitignore, and foundational baseline setup | **Complete** |
+| **Sprint 1** | Phase 1 & Phase 2 | Next.js frontend scaffolding, design tokens, typography, HUD primitives, Nav & Footer | **Complete** |
+| **Sprint 2** | Phase 3 | Cinematic Spartan Hero section (layered SVG artwork, telemetry, copy & CTAs) | **Complete** |
+| **Sprint 3** | Phase 4 | Mission dossiers (data-driven projects), case studies (`/projects/[slug]`), architecture diagrams | **Complete** |
+| **Sprint 4** | Phase 5 | Engineering Subsystems (About, Skill Matrix, Mission Log / Timeline) | **Complete** |
+| **Sprint 5** | Phase 6 | Communication Terminal (Contact form + `/api/contact`), Technical Journal stub | **Complete** |
+| **Sprint 6** | Phase A1–A7 | Spartan Intelligence FastAPI backend, knowledge corpus, ingestion, hybrid retrieval & RAG | **In Progress** |
 | **Sprint 7** | Phase A8 | Tactical Assistant frontend integration (floating HUD, SSE streaming, evidence panel) | Scheduled |
 | **Sprint 8** | Phase 7 & 8 | Motion polish, a11y, WCAG compliance, SEO metadata, sitemaps, production builds | Scheduled |
 | **Sprint 9** | Phase 9, A9–A10 | End-to-end audit, test suites, documentation sign-off, deployment readiness | Scheduled |
